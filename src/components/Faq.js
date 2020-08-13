@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Container, Row, Col, Accordion, Card } from "react-bootstrap";
 import IconText from "./IconText";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
